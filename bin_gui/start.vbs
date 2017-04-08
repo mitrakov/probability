@@ -1,0 +1,1 @@
+CreateObject ("Wscript.Shell").Run "cmd /c java -jar thpp.jar", 0, false
